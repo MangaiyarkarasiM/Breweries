@@ -1,0 +1,40 @@
+body{
+    margin: 0px 10px;
+    background-color: whitesmoke;
+}
+
+.breweries{
+    margin: 20px 20px;
+    padding: 20px 20px;
+    background-color: rgb(196, 172, 149);
+    border-radius: 0.8rem;
+    font-family: serif;
+}
+
+.card-title{
+    color: white;
+    font-size: 1.3rem;
+}
+
+.card-text{
+    padding-left: 10px;
+}
+
+.fa{
+    color: rgb(20, 89, 146) !important;
+}
+
+.title{
+    padding: 5px 0px;
+    color: white;
+    font-family: serif;
+    background-color: rgb(196, 172, 149);
+}
+
+a{
+    color: rgba(28, 40, 145, 0.747);
+}
+
+.blue{
+    color: rgb(22, 22, 27);
+}
